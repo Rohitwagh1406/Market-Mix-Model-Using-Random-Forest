@@ -91,8 +91,8 @@ transformation_function <- function(data, variable_list, adstock_rate, FR_rate, 
 # =========================================================================== #
 #  3. LOAD & PREPARE DATA
 # =========================================================================== #
-setwd("C:\\Users\\Rohit.Wagh\\OneDrive - EVERSANA\\Desktop\\MMx_ML\\Takeda\\HY_PI")
-raw_data <- read.csv("HYQVIA_PI_Model_data_19_06_2025.csv", stringsAsFactors = FALSE)
+setwd("C:\\Users\\Rohit.Wagh\\")
+raw_data <- read.csv("Data.csv", stringsAsFactors = FALSE)
 
 head(raw_data)
 
@@ -484,5 +484,6 @@ ggplot(response_df, aes(x = investment_pct, y = hill_scaled)) +
 ###############################################################################
 #                                END OF SCRIPT
 ###############################################################################
+
 
 
