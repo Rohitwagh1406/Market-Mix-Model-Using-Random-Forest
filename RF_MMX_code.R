@@ -2,7 +2,7 @@
 #                         ML BASED MODEL PIPELINE
 # -----------------------------------------------------------------------------
 # Description:
-# End-to-end Machine Learning workflow for HYQVIA PI Model:
+# End-to-end Machine Learning workflow Model:
 #  - Data transformation (Adstock + Power + Lag)
 #  - Feature engineering and aggregation
 #  - Random Forest model training
@@ -484,4 +484,5 @@ ggplot(response_df, aes(x = investment_pct, y = hill_scaled)) +
 ###############################################################################
 #                                END OF SCRIPT
 ###############################################################################
+
 
