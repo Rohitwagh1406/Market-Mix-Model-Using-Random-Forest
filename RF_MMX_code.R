@@ -1,5 +1,5 @@
 ###############################################################################
-#                         TAKEDA HYQVIA - PI ML BASED MODEL PIPELINE
+#                         ML BASED MODEL PIPELINE
 # -----------------------------------------------------------------------------
 # Description:
 # End-to-end Machine Learning workflow for HYQVIA PI Model:
@@ -484,3 +484,4 @@ ggplot(response_df, aes(x = investment_pct, y = hill_scaled)) +
 ###############################################################################
 #                                END OF SCRIPT
 ###############################################################################
+
