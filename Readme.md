@@ -1,5 +1,5 @@
 ###############################################################################
-#                         ML BASED MODEL PIPELINE
+#                         ML BASED MARKET MIX MODEL PIPELINE
 # -----------------------------------------------------------------------------
 # Description:
 End-to-end Machine Learning workflow for Model:
